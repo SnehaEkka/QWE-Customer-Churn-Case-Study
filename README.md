@@ -4,7 +4,7 @@ A data-driven investigation into customer attrition at QWE Inc., blending rigoro
 
 ## Case Summary
 
-QWE Inc., a subscription-based technology company, faced mounting challenges with customer churn as its business matured. Leadership sought not just to tally departures, but to proactively predict which customers were most at risk—and why. Tasked with this mission, a data scientist dove into the firm’s trove of usage and engagement records, extracting signals from variables spanning customer tenure, support history, product adoption, and behavioral changes.
+QWE Inc., a subscription-based technology company, faced mounting challenges with customer churn as its business matured. Leadership sought not just to tally departures, but to proactively predict which customers were most at risk, and why. Tasked with this mission, a data scientist dove into the firm’s trove of usage and engagement records, extracting signals from variables spanning customer tenure, support history, product adoption, and behavioral changes.
 
 Careful not to overfit intuition, the analysis zeroed in on how customer lifecycle, happiness metrics (CHI score), and service request patterns work in concert to shape churn risk. With management eager for actionable results, the deliverable included a ranked list of customers most likely to churn, alongside tailored insights into the top drivers for each individual’s risk.
 
@@ -12,7 +12,7 @@ Careful not to overfit intuition, the analysis zeroed in on how customer lifecyc
 
 ## Project Motivation
 
-Why do customers leave, and can we anticipate their decision before it’s too late? This project aims to illuminate the churn problem, surfacing key predictors from dozens of available metrics—turning raw behavioral footprints into strategic intervention plans that can elevate QWE’s retention and long-term value.
+Why do customers leave, and can we anticipate their decision before it’s too late? This project aims to illuminate the churn problem, surfacing key predictors from dozens of available metrics, turning raw behavioral footprints into strategic intervention plans that can elevate QWE’s retention and long-term value.
 
 ## Dataset Overview
 
@@ -34,7 +34,7 @@ Why do customers leave, and can we anticipate their decision before it’s too l
 3. **Predictive Modeling**  
    Built a logistic regression to predict churn risk, optimizing for interpretability so actionable drivers would be transparent to business users.
 4. **Individualized Interventions**  
-   For each of the top 100 at-risk customers, surfaced the three key features most responsible for their predicted churn likelihood, empowering targeted and cost-effective outreach.
+   For each of the top 100 at-risk customers, the three key features most responsible for their predicted churn likelihood were surfaced, empowering targeted and cost-effective outreach.
 5. **Visualization & Communication**  
    Delivered plots and dashboards highlighting risk distribution, driver importance, and actionable customer segments—making it easy for QWE’s retention team to move from insight to action.
 
